@@ -1,0 +1,9 @@
+C:\Users\Admin\Code projects\C#\Playing aroud\tiktak\tiktak\obj\Debug\tiktak.csprojAssemblyReference.cache
+C:\Users\Admin\Code projects\C#\Playing aroud\tiktak\tiktak\obj\Debug\tiktak.Form1.resources
+C:\Users\Admin\Code projects\C#\Playing aroud\tiktak\tiktak\obj\Debug\tiktak.Properties.Resources.resources
+C:\Users\Admin\Code projects\C#\Playing aroud\tiktak\tiktak\obj\Debug\tiktak.csproj.GenerateResource.cache
+C:\Users\Admin\Code projects\C#\Playing aroud\tiktak\tiktak\bin\Debug\tiktak.exe.config
+C:\Users\Admin\Code projects\C#\Playing aroud\tiktak\tiktak\bin\Debug\tiktak.exe
+C:\Users\Admin\Code projects\C#\Playing aroud\tiktak\tiktak\bin\Debug\tiktak.pdb
+C:\Users\Admin\Code projects\C#\Playing aroud\tiktak\tiktak\obj\Debug\tiktak.exe
+C:\Users\Admin\Code projects\C#\Playing aroud\tiktak\tiktak\obj\Debug\tiktak.pdb
